@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574635508 source:c:\facultate\asd\lab10\huffman coding\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
